@@ -14,6 +14,7 @@
 2. Example
 
 [Full Example here](http://zarnasharma.github.io/gridit.css/)
+[Read More about it here] (http://blog.zarnasharma.com/2016/01/24/responsive-design-hack/)
 ```html
   <body>
    <div class="row">
@@ -44,3 +45,4 @@
 ## License
 gridit.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
+))
